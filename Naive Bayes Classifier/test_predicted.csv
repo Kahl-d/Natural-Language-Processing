@@ -1,0 +1,11 @@
+Text,Category,prob_fact,prob_opinion,Predicted Class
+Pluto is still considered a planet in our solar system.,fact,3.038006443767947e-34,1.8652936626779945e-34,fact
+Antarctica is the driest continent on Earth.,fact,1.2759627063825423e-21,6.217645542259853e-23,fact
+Autumn is the most beautiful season.,opinion,1.7055368175313406e-19,2.1886112308755386e-20,fact
+Age is just a number in relationships.,opinion,3.788037959810388e-21,2.1196518894068174e-20,opinion
+Tea is more refreshing than coffee.,opinion,3.2486415572025415e-20,1.149020896209689e-19,opinion
+The universe is constantly expanding.,fact,3.419601319150356e-17,7.703911532682141e-18,fact
+The Internet has only made people more isolated.,opinion,1.0580056147101279e-23,7.527172902722623e-24,fact
+Sharks are older than trees in terms of species history.,fact,4.8608103100287204e-34,2.448197932264909e-34,fact
+Mount Everest is the highest mountain in the world.,fact,1.1136831601842627e-26,1.4131012596045287e-28,fact
+You can't be happy without money.,opinion,3.256763161095552e-27,4.814944707926146e-27,opinion
